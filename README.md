@@ -1,4 +1,6 @@
-# FormsAndHttp
+# Template driven forms with user validation forms
+
+This template can be used to build any type of template driven form with user validation. By using this one component various type of forms with various layout and validation and conditions can be created.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14.
 
